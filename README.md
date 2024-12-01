@@ -1,3 +1,4 @@
-# ExampleTC1030
-This is an example of a final project of TC1030
+# Example checked in GitHub
+assignment w14 cs189
+
 
